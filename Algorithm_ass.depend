@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639933277 source:c:\users\hp\documents\algorithm_ass\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<algorithm>
+
